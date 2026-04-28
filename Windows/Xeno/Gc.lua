@@ -1,2 +1,2 @@
---[[ GetGc Table ]--
+--[[ Gc Table ]--
 getgc.1 -- Part
