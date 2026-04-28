@@ -1,0 +1,22 @@
+--[[ Debug Table ]]--
+debug.dumpcodesize
+debug.dumpheap
+debug.dumprefs
+debug.getconstant
+debug.getconstants
+debug.getinfo
+debug.getmemorycategory
+debug.getproto
+debug.getprotos
+debug.getstack
+debug.getupvalue
+debug.info
+debug.loadmodule
+debug.profilebegin
+debug.profileend
+debug.resetmemorycategory
+debug.setconstant
+debug.setmemorycategory
+debug.setstack
+debug.setupvalue
+debug.traceback
